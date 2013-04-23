@@ -12,7 +12,7 @@ Parse user agents a bit like PHP's get_browser() http://php.net/manual/en/functi
 
 ## Credits
 
-Blatantly ripped from heavily based *ahem* on https://github.com/soldair/node-ua-device-type and https://github.com/jujhars13/node-user-agent-parse
+Heavily Based (Blatantly ripped from *ahem*) on https://github.com/soldair/node-ua-device-type and https://github.com/jujhars13/node-user-agent-parse
 
 ## TODO
 BDD using vows
