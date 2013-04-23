@@ -19,5 +19,5 @@ BDD using vows
 
 ##License
 
-License is [MIT](http://opensource.org/licenses/mit-license.php), go nuts. That's how we roll here at [Buto](//get.buto.tv}.
+License is [MIT](http://opensource.org/licenses/mit-license.php), go nuts. That's how we roll here at [Buto](http://get.buto.tv}.
 
