@@ -2,7 +2,7 @@
 
 ## Overview
 
-Parse user agents a bit like PHP's get_browser() http://php.net/manual/en/function.get-browser.php
+Parse user agents a bit like PHP's [get_browser()](http://php.net/manual/en/function.get-browser.php)
 
 ## Example
 
@@ -19,6 +19,5 @@ BDD using vows
 
 ##License
 
-License is MIT, go nuts. That's how we roll here at Buto.
+License is [MIT](http://opensource.org/licenses/mit-license.php), go nuts. That's how we roll here at Buto.
 
-http://opensource.org/licenses/mit-license.php
