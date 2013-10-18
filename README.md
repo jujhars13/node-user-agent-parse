@@ -1,5 +1,6 @@
 # node-user-agent-parse
 
+[![NPM](https://nodei.co/npm/node-user-agent-parse.png)](https://nodei.co/npm/node-user-agent-parse/)
 ## Overview
 
 Parse user agents a bit like PHP's [get_browser()](http://php.net/manual/en/function.get-browser.php)
@@ -15,7 +16,7 @@ Parse user agents a bit like PHP's [get_browser()](http://php.net/manual/en/func
 Heavily Based (Blatantly ripped from *ahem*) on https://github.com/soldair/node-ua-device-type and https://github.com/jujhars13/node-user-agent-parse
 
 ## TODO
-BDD using vows
+Test using mocha
 
 ##License
 
