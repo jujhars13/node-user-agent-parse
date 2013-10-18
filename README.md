@@ -1,6 +1,7 @@
-# node-user-agent-parse
+# NodeJs User Agent Parse
 
-[![NPM](https://nodei.co/npm/node-user-agent-parse.png)](https://nodei.co/npm/node-user-agent-parse/)
+[![NPM](https://nodei.co/npm/user-agent-parse.png?downloads=true)](https://nodei.co/npm/user-agent-parse/)
+
 ## Overview
 
 Parse user agents a bit like PHP's [get_browser()](http://php.net/manual/en/function.get-browser.php)
