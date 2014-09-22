@@ -26,6 +26,9 @@
     "devDependencies": {
         "lodash": "~2.2.1"
     },
+    "scripts":{
+      "test":"npm run ./test"
+    },
     "optionalDependencies": {},
     "license": "BSD"
 }
