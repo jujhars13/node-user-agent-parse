@@ -1,7 +1,7 @@
 {
     "name": "user-agent-parse",
     "description": "rudimentary browser user-agent parser",
-    "version": "0.1.7",
+    "version": "0.1.9",
     "repository": {
         "type": "git",
         "url": "git@github.com:jujhars13/node-user-agent-parse.git"
