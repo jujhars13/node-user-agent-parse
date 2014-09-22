@@ -3,12 +3,13 @@
 [![NPM](https://nodei.co/npm/user-agent-parse.png?downloads=true)](https://nodei.co/npm/user-agent-parse/)
 
 ## Build Status
-[![Build Status](https://travis-ci.org/jujhars13/node-user-agent-patse.png?branch=master)](https://travis-ci.org/jujhars13/node-user-agent-parse)
+[![Build Status](https://travis-ci.org/jujhars13/node-user-agent-parse.png?branch=master)](https://travis-ci.org/jujhars13/node-user-agent-parse)
 
 
 ## Overview
 
 Parse user agents a bit like PHP's [get_browser()](http://php.net/manual/en/function.get-browser.php)
+A bit rudimentary but it works
 
 ## Example
 ```javascript
@@ -26,4 +27,3 @@ Test using mocha
 ##License
 
 License is [MIT](http://opensource.org/licenses/mit-license.php), go nuts. That's how we roll here at [Buto](http://get.buto.tv).
-
