@@ -1,4 +1,4 @@
-# NodeJs User Agent Parse
+# Node User Agent Parse
 
 [![NPM](https://nodei.co/npm/user-agent-parse.png?downloads=true)](https://nodei.co/npm/user-agent-parse/)
 
@@ -8,8 +8,8 @@
 
 ## Overview
 
-Parse user agents a bit like PHP's [get_browser()](http://php.net/manual/en/function.get-browser.php)
-A bit rudimentary but it works
+Parse user agents a bit like PHP's [get_browser()](http://php.net/manual/en/function.get-browser.php).
+Rudimentary but it works.
 
 ## Example
 ```javascript
@@ -19,11 +19,11 @@ A bit rudimentary but it works
 ```
 ## Credits
 
-Heavily Based (Blatantly ripped from *ahem*) on https://github.com/soldair/node-ua-device-type and https://github.com/jujhars13/node-user-agent-parse
+Heavily based on (blatantly ripped from *ahem*) https://github.com/soldair/node-ua-device-type and https://github.com/jujhars13/node-user-agent-parse
 
 ## TODO
-Test using mocha
+Implemnet tests using `mocha` and `should`
 
 ##License
 
-License is [MIT](http://opensource.org/licenses/mit-license.php), go nuts. That's how we roll here at [Buto](http://get.buto.tv).
+License is [MIT](http://opensource.org/licenses/mit-license.php), go nuts.
