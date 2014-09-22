@@ -1,8 +1,8 @@
 /**
  * quick and dirty test
- * TODO rewrite using vows 
+ * TODO rewrite using vows
  */
-var parse = require('./lib/user-agent-parse');
+var parse = require('../lib/user-agent-parse');
 var _ = require('lodash');
 var user_agent = {
     firefox: "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.14) Gecko/20080404 Firefox/2.0.0.14",
