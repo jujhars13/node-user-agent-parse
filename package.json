@@ -23,7 +23,7 @@
     "_from": "user-agent-parse@",
     "dependencies": {},
     "devDependencies": {
-        "lodash": "~2.2.1"
+        "lodash": "~4.17.15"
     },
     "scripts":{
       "test":"npm run ./test"
