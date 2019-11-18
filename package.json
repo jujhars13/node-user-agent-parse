@@ -25,5 +25,5 @@
     "test": "node ./test/test.js"
   },
   "optionalDependencies": {},
-  "license": "MID"
+  "license": "MIT"
 }
