@@ -1,33 +1,29 @@
 {
-    "name": "user-agent-parse",
-    "description": "rudimentary browser user-agent parser",
-    "version": "0.1.10",
-    "repository": {
-        "type": "git",
-        "url": "git@github.com:jujhars13/node-user-agent-parse.git"
-    },
-    "author": {
-        "name": "Jujhar Singh",
-        "email": "jujhar@jujhar.com"
-    },
-    "main": "index",
-    "engines": {
-        "node": "*"
-    },
-    "keywords": [
-        "browser",
-        "parse"
-    ],
-    "readmeFilename": "README.md",
-    "_id": "user-agent-parse@1.0.5",
-    "_from": "user-agent-parse@",
-    "dependencies": {},
-    "devDependencies": {
-        "lodash": "~4.17.15"
-    },
-    "scripts":{
-      "test":"npm run ./test"
-    },
-    "optionalDependencies": {},
-    "license": "BSD"
+  "name": "user-agent-parse",
+  "description": "simple, no deps browser user-agent string parser",
+  "version": "0.1.11",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jujhars13/node-user-agent-parse.git"
+  },
+  "author": {
+    "name": "Jujhar Singh",
+    "email": "jujhar@jujhar.com"
+  },
+  "main": "index",
+  "engines": {
+    "node": ">6"
+  },
+  "keywords": [
+    "browser",
+    "parse",
+    "user-agent"
+  ],
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "optionalDependencies": {},
+  "license": "MID"
 }
