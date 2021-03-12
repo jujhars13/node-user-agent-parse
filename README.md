@@ -13,7 +13,7 @@ Rudimentary but it works.
 ## Example Usage
 
 ```javascript
-const userAgent = require('user-agent');
+const userAgent = require('user-agent-parse');
 userAgent.parse('Mozilla/5.0 (Windows; U; Windows NT 5.1; en) AppleWebKit/526.9 (KHTML, like Gecko) Version/4.0dp1 Safari/526.8');
 // => { name: 'safari', version: '4.0dp1', os: 'Windows XP', full: '... same string as above ...', device_type:'desktop' }
 ```
